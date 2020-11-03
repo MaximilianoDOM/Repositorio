@@ -1,0 +1,61 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  max-width: 100%;
+  width: 150px;
+  height: 150px;
+  border-radius: 250px;
+}
+
+.contenedores {
+  display: flex;
+  flex-wrap: wrap;
+  color: #f43;
+  align-items: center;
+  height: 100%;
+   background: #f43;
+}
+
+.titular {
+  Padding: ;
+  Align-items: center;
+  Justify-content: center;
+  flex-grow: 40;
+}
+
+.icono {
+  Padding: ;
+  Align-items: center;
+  Justify-content: center;
+  flex-grow: 1;
+}
+
+.fila-1 {
+  Flex-grow: 10;
+  Color: white;
+  Text-align: center;
+  Padding: 7%;
+  Align-items: center;
+  Justify-content: center;
+  background: url("Imágenes/laptop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fila-3 {
+  flex-grow: 10;
+  align-items: center;
+  justify-content: center;
+  background: #ffffff;
+}
+
+.fila-2{
+  Flex-grow: 10;
+  height: 100px;
+  Color: black;
+  Text-align: center;
+  background-color: orange;
+}
